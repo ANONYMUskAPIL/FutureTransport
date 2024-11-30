@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Future of Transport</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- 1.1 Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Revolutionizing the Future of Transport Through Digital Innovation</h1>
+      <p>Explore how digital solutions are transforming mobility, sustainability, and efficiency.</p>
+      <a href="#solutions" class="cta-btn">Explore Solutions</a>
+    </div>
+    <div class="hero-image">
+      <img src="futuristic-city.jpg" alt="Futuristic City with Autonomous Vehicles" class="hero-img">
+    </div>
+  </section>
+
+  <!-- 1.2 About the Problem -->
+  <section class="problem">
+    <h2>The Current Transportation Challenges</h2>
+    <p>Traffic congestion, carbon emissions, and inefficiencies in public transport demand digital solutions for a sustainable future.</p>
+    <div class="problem-icons">
+      <div class="icon-card">
+        <img src="congestion-icon.png" alt="Traffic Congestion">
+        <p>Traffic Congestion</p>
+      </div>
+      <div class="icon-card">
+        <img src="carbon-icon.png" alt="Carbon Emissions">
+        <p>Carbon Emissions</p>
+      </div>
+      <div class="icon-card">
+        <img src="inefficiency-icon.png" alt="Inefficiency">
+        <p>Inefficient Transport</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 1.3 Our Solution -->
+  <section class="solution">
+    <h2>Our Solution</h2>
+    <p>Our digital solution aims to transform transport by integrating smart systems and AI-driven technologies.</p>
+    <div class="features">
+      <div class="feature-card">
+        <h3>Smart Traffic Management</h3>
+        <p>Optimizing traffic flow using real-time data analysis and AI predictions.</p>
+      </div>
+      <div class="feature-card">
+        <h3>Autonomous Vehicle Networks</h3>
+        <p>Reducing human error and improving efficiency with AI-powered vehicles.</p>
+      </div>
+      <div class="feature-card">
+        <h3>Sustainable Transport</h3>
+        <p>Using IoT and AI for energy-efficient, eco-friendly transportation solutions.</p>
+      </div>
+    </div>
+    <a href="#demo" class="cta-btn">Try Demo</a>
+  </section>
+
+  <!-- 1.4 Key Technologies -->
+  <section class="technologies">
+    <h2>Key Technologies</h2>
+    <div class="tech-cards">
+      <div class="tech-card">
+        <h3>AI</h3>
+        <p>Artificial Intelligence enhances traffic management and vehicle autonomy.</p>
+      </div>
+      <div class="tech-card">
+        <h3>IoT</h3>
+        <p>The Internet of Things enables real-time data sharing and monitoring.</p>
+      </div>
+      <div class="tech-card">
+        <h3>Cloud Computing</h3>
+        <p>Cloud platforms allow seamless data storage and processing for scalability.</p>
+      </div>
+      <div class="tech-card">
+        <h3>Autonomous Systems</h3>
+        <p>Self-driving vehicles powered by AI, reducing human errors and enhancing safety.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 1.5 Vision for the Future -->
+  <section class="vision">
+    <h2>Vision for the Future</h2>
+    <p>Our solution aims to create a smarter, greener, and more efficient transport system for tomorrow.</p>
+    <div class="vision-stats">
+      <div class="stat-card">
+        <h3>Reduced Emissions</h3>
+        <p>Cutting CO2 emissions by 50% in the next 10 years.</p>
+      </div>
+      <div class="stat-card">
+        <h3>Safer Roads</h3>
+        <p>Reducing road accidents by 40% with autonomous vehicles.</p>
+      </div>
+      <div class="stat-card">
+        <h3>Efficient Transport</h3>
+        <p>Improving public transport efficiency by 30% with smart management.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 1.6 Call to Action -->
+  <section class="cta">
+    <h2>Join us in driving the future of transportation!</h2>
+    <a href="contact-us.html" class="cta-btn">Get Started</a>
+  </section>
+
+</body>
+</html>
